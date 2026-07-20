@@ -7,4 +7,4 @@
 
 pip install google-genai python-dotenv numpy
 
-GEMINI_API_KEY='xxxxxxxxxxxxxx_WYt8SbOZQM8Ayxo'
+GEMINI_API_KEY='xxxxxxxxxxxxxxxx'
